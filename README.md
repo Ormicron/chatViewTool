@@ -1,3 +1,6 @@
+# 声明
+***该工具长期未更新维护，多数情况下已无法满足使用需求，本工具私有版/外部版本均已停止开发。***
+
 # ChatViewTool
 
 `ChatViewTool`是一个配合[`dumpkey`](https://github.com/Ormicron/Sharp-dumpkey)(微信数据库秘钥获取工具)使用的小工具，该工具实现了微信数据库解密以及展示数据库聊天记录的功能。
